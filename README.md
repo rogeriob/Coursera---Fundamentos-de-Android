@@ -1,2 +1,3 @@
-# Coursera---Fundamentos-de-Android
 Coursera - Fundamentos de Android
+
+Agregado el primer ejercicio de la semana 3 del curso Fundamentos de Android en Coursera llamado mobile-debug.apk
